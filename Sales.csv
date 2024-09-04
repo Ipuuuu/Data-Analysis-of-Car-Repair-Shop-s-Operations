@@ -1,0 +1,6 @@
+SalesID,CustomerID,VehicleID,LocationID,DateID,TotalLabour,TotalParts,SalesTax,TotalAmount
+1,1,1,1,1,625,970,207.33,1802.2
+2,2,2,,2,325,250,42.25,617.25
+3,3,3,,3,200,150,26,376
+4,4,4,,4,300,325,39,664
+5,5,5,,5,440,340,57.2,837.2
